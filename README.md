@@ -1,0 +1,1 @@
+- https://www.prisma.io/blog/nestjs-prisma-validation-7D056s1kOla1
